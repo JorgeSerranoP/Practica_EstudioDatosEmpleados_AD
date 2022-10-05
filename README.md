@@ -1,2 +1,6 @@
 # Practica_EstudioDatosEmpleados_AD
-A Data Analysis practice where we made a study of a dummy data set created by IBM in order to discover why employees decide to quit their job
+El objetivo de la práctica es realizar un estudio sobre un conjunto de datos concreto. En nuestro caso, se trata de un conjunto ficticio creado por los científicos de datos de IBM en el que descubriremos qué factores son los que llevan a los empleados a dejar su puesto de trabajo.
+
+# Autores
+Ivan Aguado Perulero,
+Jorge Serrano Pérez
